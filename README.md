@@ -9,3 +9,6 @@ You can install it directly from GitHub through `devtools`:
 `devtools::install_github("yuetianluo/ISLET")`
 
 `library(ISLET)`
+
+# How to use
+See "manural.pdf" and "ISLET_example.R" for reference.
