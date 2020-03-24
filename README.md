@@ -11,4 +11,4 @@ You can install it directly from GitHub through `devtools`:
 `library(ISLET)`
 
 ## How to use
-See "manural.pdf" and "ISLET-example.R" for reference.
+See "manual.pdf" and "ISLET-example.R" for reference.
