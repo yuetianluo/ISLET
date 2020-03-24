@@ -4,7 +4,8 @@ This is the package for paper: "ISLET: Fast and Optimal Low-Rank Tensor Regressi
 ## Intall the package
 You can install it directly from GitHub through `devtools`:
 
-`library(devtools)
+`library(devtools)`
 
+`devtools::install_github("yuetianluo/ISLET")`
 
-devtools::install_github("yuetianluo/ISLET", build_vignettes=T)`
+`library(ISLET)`
