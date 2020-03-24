@@ -1,0 +1,13 @@
+Package: ISLET
+Type: Package
+Title: ISLET
+Version: 0.1.0
+Authors: Anru Zhang, Yuetian Luo, Garvesh Raskutti, Ming Yuan
+Maintainer: Yuetian Luo <yluo86@wisc.edu>
+Description: This package can do fast low-rank tensor regression via importance sketching and fast low rank sparse tensor regression via importance sketching. The algorithm is quite scalable and can handle dimension ten million. See paper Zhang et al. (2020) for reference.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Imports: Rdpack
+RdMacros: Rdpack
