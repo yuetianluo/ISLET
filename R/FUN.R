@@ -1,3 +1,4 @@
+# This code attributes to "Cross: Efficient low-rank tensor completion" by Anru Zhang (2019) The Annals of Statistics.
 
 # Low-rank matrix and tensor regression via sketching
 library(rTensor)
