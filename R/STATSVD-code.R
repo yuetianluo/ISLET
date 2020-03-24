@@ -1,3 +1,5 @@
+# This code attributes to "Optimal sparse singular value decomposition for high-dimensional high-order data" by Anru Zhang and Rungang Han (2019)
+# Journal of the American Statistical Association
 # Source code for STATSVD
 
 library(rTensor)
